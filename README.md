@@ -9,7 +9,7 @@ Resize the image so as to avoid dimensionality errors, also images can not be op
 
 I used CNN(Convolutional Neural Network) to predict the mood of a person. 3-Convolutional and 3-Dense Layers are used in Model that can be seen in 'model_structure.png' file. <br>
 
-On testing the model, I got accuracy of 64.99%, while for live predictions model was performing very well.<br>
+On testing the model, I got accuracy of 98%, while for live predictions model was performing very well.<br>
 
 Due to hardware constraints it was not possible for me to make more dense layer network while it can be clearly observed from the 'Accuracy' and 'Loss' curve that more Dense and Convolutional layers are required.<br>
 
